@@ -16,5 +16,9 @@ For the training I worked with 2000 dermoscopic images and there corresponding G
 For the testing 600 images with the corresponding Ground-Truth
 I resized the images to (128,128) for faster processing. 
 ![GitHub Logo](seg_img_true.png)
-Format: ![Alt Text](url)
+
+* Using U_net Model to do the task with Dice coefficient 
+ result
+![GitHub Logo](seg_result.png)
+![GitHub Logo](seg_result2.png)
 
