@@ -15,3 +15,6 @@ I worked on Task1 and task3 ,i.e segmentation and classification of images into 
 For the training I worked with 2000 dermoscopic images and there corresponding Ground-Truth mask from ISIC data set.
 For the testing 600 images with the corresponding Ground-Truth
 I resized the images to (128,128) for faster processing. 
+![GitHub Logo](seg_img_true.png)
+Format: ![Alt Text](url)
+
