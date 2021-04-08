@@ -26,6 +26,6 @@ I resized the images to (128,128) for faster processing.
 For the training I worked with 2000 dermoscopic images and there corresponding Ground-Truth CSV file from ISIC data set.
 For the testing 600 images with the corresponding Ground-Truth CSV file.
 ![GitHub Logo](https://github.com/sif-eddine-boughris/ISIC_challenge_2017/blob/main/ISIC%20chart%20test.png)
-![GitHub Logo](seg_result2.png)
+![GitHub Logo](https://github.com/sif-eddine-boughris/ISIC_challenge_2017/blob/main/ISIC%20chart%20train.png)
 
 
