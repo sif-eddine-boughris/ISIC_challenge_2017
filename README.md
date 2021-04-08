@@ -23,8 +23,8 @@ I resized the images to (128,128) for faster processing.
 ![GitHub Logo](seg_result2.png)
 
 # Task 03: Disease Classification
-For the training I worked with 2000 dermoscopic images and there corresponding Ground-Truth CSV file from ISIC data set.\\
-For the testing 600 images with the corresponding Ground-Truth CSV file
-![GitHub Logo](ISIC chart train.png)
-![GitHub Logo](ISIC chart test.png)
+For the training I worked with 2000 dermoscopic images and there corresponding Ground-Truth CSV file from ISIC data set.
+For the testing 600 images with the corresponding Ground-Truth CSV file.
+![GitHub ](ISIC chart train.png)
+![GitHub ](ISIC chart test.png)
 
